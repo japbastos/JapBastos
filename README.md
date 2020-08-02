@@ -2,9 +2,7 @@
 
 ### I am João Bastos (japbastos)
 
-##### A computer engineer by choice, a teacher by vocation, passionate about technology and personal development.
-##### I am appreciate clean design and usability.
-##### An eternal apprentice, constantly evolving. 
+##### A computer engineer by choice, a teacher by vocation, passionate about technology and personal development. I am appreciate clean design and usability. An eternal apprentice, constantly evolving.
 
 [![Twitter Badge](https://img.shields.io/badge/-@japbastos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/japbastos)](https://twitter.com/japbastos)
 [![Instagram Badge](https://img.shields.io/badge/-@ojapbastos-df3d60?style=flat-square&labelColor=df3d60&logo=instagram&logoColor=white&link=https://instagram.com/ojapbastos)](https://instagram.com/ojapbastos)
