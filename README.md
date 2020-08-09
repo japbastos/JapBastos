@@ -7,7 +7,7 @@
 ##### Feel free to contact me, you can find me here ...
 
 [![Twitter Badge](https://img.shields.io/badge/-@japbastos-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/japbastos)](https://twitter.com/japbastos)
-[![Instagram Badge](https://img.shields.io/badge/-@ojapbastos-df3d60?style=flat-square&labelColor=df3d60&logo=instagram&logoColor=white&link=https://instagram.com/japbastos)](https://instagram.com/ojapbastos)
+[![Instagram Badge](https://img.shields.io/badge/-@japbastos-df3d60?style=flat-square&labelColor=df3d60&logo=instagram&logoColor=white&link=https://instagram.com/japbastos)](https://instagram.com/japbastos)
 [![Gmail Badge](https://img.shields.io/badge/-japbastos@gmail.com-f44236?style=flat-square&logo=Gmail&logoColor=white&link=mailto:japbastos@gmail.com)](mailto:japbastos@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-João%20Bastos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/japbastos)](https://www.linkedin.com/in/japbastos)
 
