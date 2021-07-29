@@ -1,4 +1,4 @@
-<img align="right" src="https://japbastos.com/assets/undraw_developer_activity_bv83.svg" width="300"/>
+<img align="right" src="https://japbastos.com/assets/primeira.svg" width="300"/>
 
 ## Hi, I'm João Bastos 👋
 
