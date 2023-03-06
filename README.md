@@ -1,4 +1,4 @@
-<img align="right" src="https://japbastos.com/assets/primeira.svg" width="300"/>
+<img align="right" src="https://drive.google.com/file/d/1DJOuA_z73C-juTjkZreTf5QO155Nk34m/view?usp=share_link" width="300"/>
 
 ## Hi, I'm João Bastos 👋
 
