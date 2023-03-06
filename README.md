@@ -1,4 +1,4 @@
-<img align="right" src="https://postimg.cc/9zHsF1NV" width="300"/>
+<img align="right" src="https://i.postimg.cc/NGKtDz6y/developer.png" width="300"/>
 
 ## Hi, I'm João Bastos 👋
 
