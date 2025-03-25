@@ -2,7 +2,7 @@
 
 ## Hi, I'm João Bastos 👋
 
-#### A computer engineer by choice, a teacher by vocation, passionate about technology and personal development. Apreciator of clean design and usability. An eternal apprentice, constantly evolving.
+#### A computer engineer by choice, a teacher at heart, and a lifelong technology enthusiast. Passionate about clean design, usability, and personal growth, I am always striving to learn, evolve, and create impactful digital experiences.
 
 ##### Feel free to contact me, you can find me here ...
 
